@@ -1,9 +1,5 @@
 asgiref 
 Django 
 sqlparse 
-<<<<<<< HEAD
 tzdata
 gunicorn
-=======
-tzdata 
->>>>>>> 5cce1bc539a8eaa0740db4bac9509a5b20ae7061
